@@ -1,5 +1,18 @@
 # A CLI Tool
 
+
+## Interactive CLI Demos (DeepGuide Ready!)
+
+This project is pre-configured for [DeepGuide](https://github.com/deepguide/dg) interactive terminal demos.
+
+To add your first demo:
+```bash
+bunx @deepguide/dg capture
+```
+
+Your demo will be auto-validated by CI after you push.
+
+
 ## **Test the Demo CLI**
 
 ```bash
